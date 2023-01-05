@@ -1,3 +1,5 @@
+### 기초5-4. 데이터 정렬
+
 ```python
 # 1172 세 수 정렬하기
 a = sorted(list(map(int, input().split())))
