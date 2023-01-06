@@ -67,6 +67,6 @@ public class Test {
 
 - 연필 객체가 있다고 하자.
 
-- Call by Reference는 연필 객체 자체를 전달한다. (연필 자체를 공유)
+- Call by Reference는 연필의  전달한다. (연필 자체를 공유)
 
 - 자바는 연필이 있는 주소를 전달한다. (연필 주소를 공유)
