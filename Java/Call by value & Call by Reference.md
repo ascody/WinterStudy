@@ -1,6 +1,8 @@
 <h2>Call by Value와 Call by Reference</h2>
 
-> 참고 : [https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)
+> 참고 1 : [https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)<br><br>
+> 참고 2 : [https://kimmayer.tistory.com/entry/Java%EC%9D%98-Call-by-value-Call-by-reference](https://kimmayer.tistory.com/entry/Java%EC%9D%98-Call-by-value-Call-by-reference)<br><br>
+> 참고 3 : [https://gyubgyub.tory.com/84](https://gyubgyub.tistory.com/84)
 
 ### call by value
 > <b>값에 의한 호출</b>
