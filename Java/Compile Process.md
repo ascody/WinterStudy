@@ -140,3 +140,4 @@ class 파일 형식이 자바 언어 명세(Java Language Specification) 및 JVM
 > [JVM - 실행 엔진(Execution Engine)](https://junhyunny.github.io/information/java/jvm-execution-engine/)<br>
 > [[Java] JVM 메모리 사용 영역](https://scshim.tistory.com/351)<br>
 > [Java 프로그래밍 -메모리 구조-](https://yu5501.tistory.com/16)<br>
+> [JVM 메모리 구조](https://velog.io/@kyukim/1-yylklo8g)<br>
