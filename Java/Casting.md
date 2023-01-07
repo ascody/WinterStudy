@@ -1,4 +1,4 @@
-## Casting
+## Casting(업캐스팅 & 다운캐스팅)
 
 <img src = "https://www.scaler.com/topics/images/upcasting-and-downcasting-in-java-thumbnail.webp" width="35%" height="35%">
 
