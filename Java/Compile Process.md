@@ -131,3 +131,11 @@ class 파일 형식이 자바 언어 명세(Java Language Specification) 및 JVM
 > 동적으로 할당했던 메모리 영역 중 필요 없게 된 메모리 영역을 주기적으로 삭제하는 프로세스
 
 - Heap 영역의 더 이상 참조되지 않는 객체를 정리
+
+<br>
+> **참고**<br>
+> [JVM 구조](https://goodgid.github.io/Java-JVM/#%EB%A9%94%EC%84%9C%EB%93%9C-%EC%98%81%EC%97%AD)<br>
+> [[JAVA]자바의 기본 개념 정리-2.자바 메모리 구조](https://doohong.github.io/2018/03/02/Java-runtime-data-area/)<br>
+> [JVM - 실행 엔진(Execution Engine)](https://junhyunny.github.io/information/java/jvm-execution-engine/)<br>
+> [[Java] JVM 메모리 사용 영역](https://scshim.tistory.com/351)<br>
+> [Java 프로그래밍 -메모리 구조-](https://yu5501.tistory.com/16)<br>
