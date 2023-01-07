@@ -133,6 +133,7 @@ class 파일 형식이 자바 언어 명세(Java Language Specification) 및 JVM
 - Heap 영역의 더 이상 참조되지 않는 객체를 정리
 
 <br>
+
 > **참고**<br>
 > [JVM 구조](https://goodgid.github.io/Java-JVM/#%EB%A9%94%EC%84%9C%EB%93%9C-%EC%98%81%EC%97%AD)<br>
 > [[JAVA]자바의 기본 개념 정리-2.자바 메모리 구조](https://doohong.github.io/2018/03/02/Java-runtime-data-area/)<br>
