@@ -123,6 +123,7 @@ public static void main(String[] args){
 - [자바 RMI(Remote Method Invocation)](https://docs.oracle.com/javase/tutorial/rmi/index.html)
 > 원격 시스템 간의 메시지 교환에서 시스템의 메서드를 호출 시에 전달하는 메시지(보통 객체)를 자동으로 직렬화
 
+<br>
 
 > **참조**<br>
 > [[Java] 직렬화(Serialization)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20%EC%A7%81%EB%A0%AC%ED%99%94(Serialization).md#java-%EC%A7%81%EB%A0%AC%ED%99%94serialization)<br>
